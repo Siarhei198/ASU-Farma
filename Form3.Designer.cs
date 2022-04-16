@@ -95,6 +95,7 @@ namespace P0
             this.statusTableAdapter = new P0.dbDataSetTableAdapters.statusTableAdapter();
             this.typesTableAdapter = new P0.dbDataSetTableAdapters.typesTableAdapter();
             this.usersTableAdapter = new P0.dbDataSetTableAdapters.usersTableAdapter();
+            this.button6 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.statusBindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dbDataSet)).BeginInit();
@@ -321,14 +322,14 @@ namespace P0
             this.bindingNavigatorDeleteItem,
             this.journalBindingNavigatorSaveItem,
             this.toolStripButton1});
-            this.journalBindingNavigator.Location = new System.Drawing.Point(0, 69);
+            this.journalBindingNavigator.Location = new System.Drawing.Point(0, 73);
             this.journalBindingNavigator.MoveFirstItem = this.bindingNavigatorMoveFirstItem;
             this.journalBindingNavigator.MoveLastItem = this.bindingNavigatorMoveLastItem;
             this.journalBindingNavigator.MoveNextItem = this.bindingNavigatorMoveNextItem;
             this.journalBindingNavigator.MovePreviousItem = this.bindingNavigatorMovePreviousItem;
             this.journalBindingNavigator.Name = "journalBindingNavigator";
             this.journalBindingNavigator.PositionItem = this.bindingNavigatorPositionItem;
-            this.journalBindingNavigator.Size = new System.Drawing.Size(1768, 31);
+            this.journalBindingNavigator.Size = new System.Drawing.Size(1768, 27);
             this.journalBindingNavigator.TabIndex = 3;
             this.journalBindingNavigator.Text = "bindingNavigator1";
             // 
@@ -338,7 +339,7 @@ namespace P0
             this.bindingNavigatorAddNewItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorAddNewItem.Image")));
             this.bindingNavigatorAddNewItem.Name = "bindingNavigatorAddNewItem";
             this.bindingNavigatorAddNewItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorAddNewItem.Size = new System.Drawing.Size(29, 28);
+            this.bindingNavigatorAddNewItem.Size = new System.Drawing.Size(29, 24);
             this.bindingNavigatorAddNewItem.Text = "Добавить";
             // 
             // journalBindingSource
@@ -349,7 +350,7 @@ namespace P0
             // bindingNavigatorCountItem
             // 
             this.bindingNavigatorCountItem.Name = "bindingNavigatorCountItem";
-            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(55, 28);
+            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(55, 24);
             this.bindingNavigatorCountItem.Text = "для {0}";
             this.bindingNavigatorCountItem.ToolTipText = "Общее число элементов";
             // 
@@ -359,7 +360,7 @@ namespace P0
             this.bindingNavigatorMoveFirstItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMoveFirstItem.Image")));
             this.bindingNavigatorMoveFirstItem.Name = "bindingNavigatorMoveFirstItem";
             this.bindingNavigatorMoveFirstItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMoveFirstItem.Size = new System.Drawing.Size(29, 28);
+            this.bindingNavigatorMoveFirstItem.Size = new System.Drawing.Size(29, 24);
             this.bindingNavigatorMoveFirstItem.Text = "Переместить в начало";
             // 
             // bindingNavigatorMovePreviousItem
@@ -368,19 +369,18 @@ namespace P0
             this.bindingNavigatorMovePreviousItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMovePreviousItem.Image")));
             this.bindingNavigatorMovePreviousItem.Name = "bindingNavigatorMovePreviousItem";
             this.bindingNavigatorMovePreviousItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMovePreviousItem.Size = new System.Drawing.Size(29, 28);
+            this.bindingNavigatorMovePreviousItem.Size = new System.Drawing.Size(29, 24);
             this.bindingNavigatorMovePreviousItem.Text = "Переместить назад";
             // 
             // bindingNavigatorSeparator
             // 
             this.bindingNavigatorSeparator.Name = "bindingNavigatorSeparator";
-            this.bindingNavigatorSeparator.Size = new System.Drawing.Size(6, 31);
+            this.bindingNavigatorSeparator.Size = new System.Drawing.Size(6, 27);
             // 
             // bindingNavigatorPositionItem
             // 
             this.bindingNavigatorPositionItem.AccessibleName = "Положение";
             this.bindingNavigatorPositionItem.AutoSize = false;
-            this.bindingNavigatorPositionItem.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.bindingNavigatorPositionItem.Name = "bindingNavigatorPositionItem";
             this.bindingNavigatorPositionItem.Size = new System.Drawing.Size(49, 27);
             this.bindingNavigatorPositionItem.Text = "0";
@@ -389,7 +389,7 @@ namespace P0
             // bindingNavigatorSeparator1
             // 
             this.bindingNavigatorSeparator1.Name = "bindingNavigatorSeparator1";
-            this.bindingNavigatorSeparator1.Size = new System.Drawing.Size(6, 31);
+            this.bindingNavigatorSeparator1.Size = new System.Drawing.Size(6, 27);
             // 
             // bindingNavigatorMoveNextItem
             // 
@@ -397,7 +397,7 @@ namespace P0
             this.bindingNavigatorMoveNextItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMoveNextItem.Image")));
             this.bindingNavigatorMoveNextItem.Name = "bindingNavigatorMoveNextItem";
             this.bindingNavigatorMoveNextItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMoveNextItem.Size = new System.Drawing.Size(29, 28);
+            this.bindingNavigatorMoveNextItem.Size = new System.Drawing.Size(29, 24);
             this.bindingNavigatorMoveNextItem.Text = "Переместить вперед";
             // 
             // bindingNavigatorMoveLastItem
@@ -406,13 +406,13 @@ namespace P0
             this.bindingNavigatorMoveLastItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMoveLastItem.Image")));
             this.bindingNavigatorMoveLastItem.Name = "bindingNavigatorMoveLastItem";
             this.bindingNavigatorMoveLastItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMoveLastItem.Size = new System.Drawing.Size(29, 28);
+            this.bindingNavigatorMoveLastItem.Size = new System.Drawing.Size(29, 24);
             this.bindingNavigatorMoveLastItem.Text = "Переместить в конец";
             // 
             // bindingNavigatorSeparator2
             // 
             this.bindingNavigatorSeparator2.Name = "bindingNavigatorSeparator2";
-            this.bindingNavigatorSeparator2.Size = new System.Drawing.Size(6, 31);
+            this.bindingNavigatorSeparator2.Size = new System.Drawing.Size(6, 27);
             // 
             // bindingNavigatorDeleteItem
             // 
@@ -420,7 +420,7 @@ namespace P0
             this.bindingNavigatorDeleteItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorDeleteItem.Image")));
             this.bindingNavigatorDeleteItem.Name = "bindingNavigatorDeleteItem";
             this.bindingNavigatorDeleteItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorDeleteItem.Size = new System.Drawing.Size(29, 28);
+            this.bindingNavigatorDeleteItem.Size = new System.Drawing.Size(29, 24);
             this.bindingNavigatorDeleteItem.Text = "Удалить";
             this.bindingNavigatorDeleteItem.Click += new System.EventHandler(this.bindingNavigatorDeleteItem_Click);
             // 
@@ -429,7 +429,7 @@ namespace P0
             this.journalBindingNavigatorSaveItem.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
             this.journalBindingNavigatorSaveItem.Image = ((System.Drawing.Image)(resources.GetObject("journalBindingNavigatorSaveItem.Image")));
             this.journalBindingNavigatorSaveItem.Name = "journalBindingNavigatorSaveItem";
-            this.journalBindingNavigatorSaveItem.Size = new System.Drawing.Size(29, 28);
+            this.journalBindingNavigatorSaveItem.Size = new System.Drawing.Size(29, 24);
             this.journalBindingNavigatorSaveItem.Text = "Сохранить данные";
             this.journalBindingNavigatorSaveItem.Click += new System.EventHandler(this.journalBindingNavigatorSaveItem_Click_1);
             // 
@@ -439,7 +439,7 @@ namespace P0
             this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
             this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(29, 28);
+            this.toolStripButton1.Size = new System.Drawing.Size(29, 24);
             this.toolStripButton1.Text = "toolStripButton1";
             this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
@@ -458,6 +458,7 @@ namespace P0
             // 
             // splitContainer1.Panel2
             // 
+            this.splitContainer1.Panel2.Controls.Add(this.button6);
             this.splitContainer1.Panel2.Controls.Add(this.button5);
             this.splitContainer1.Panel2.Controls.Add(this.label4);
             this.splitContainer1.Panel2.Controls.Add(this.textBox1);
@@ -679,7 +680,7 @@ namespace P0
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label4.Location = new System.Drawing.Point(13, 4);
+            this.label4.Location = new System.Drawing.Point(357, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(256, 20);
             this.label4.TabIndex = 1;
@@ -689,7 +690,7 @@ namespace P0
             // 
             this.textBox1.BackColor = System.Drawing.Color.PeachPuff;
             this.textBox1.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.journalBindingSource, "opisanie", true));
-            this.textBox1.Location = new System.Drawing.Point(3, 27);
+            this.textBox1.Location = new System.Drawing.Point(361, 27);
             this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
@@ -726,6 +727,15 @@ namespace P0
             // usersTableAdapter
             // 
             this.usersTableAdapter.ClearBeforeFill = true;
+            // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(16, 15);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(119, 44);
+            this.button6.TabIndex = 3;
+            this.button6.Text = "button6";
+            this.button6.UseVisualStyleBackColor = true;
             // 
             // Form3
             // 
@@ -826,5 +836,6 @@ namespace P0
         private System.Windows.Forms.DataGridViewCheckBoxColumn doc;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
         private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button6;
     }
 }
