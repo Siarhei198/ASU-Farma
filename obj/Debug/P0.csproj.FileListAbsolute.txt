@@ -1,0 +1,48 @@
+C:\Users\bnds1\source\repos\P0\bin\Debug\P0.exe.config
+C:\Users\bnds1\source\repos\P0\bin\Debug\P0.exe
+C:\Users\bnds1\source\repos\P0\bin\Debug\P0.pdb
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.csproj.AssemblyReference.cache
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.Form1.resources
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.Form2.resources
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.Properties.Resources.resources
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.csproj.GenerateResource.cache
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.csproj.CoreCompileInputs.cache
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.exe
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.pdb
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.Form3.resources
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.Form4.resources
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.Form25.resources
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.Form5.resources
+C:\Users\bnds1\source\repos\P0\obj\Debug\P0.Form6.resources
+D:\bsu\P0\bin\Debug\P0.exe.config
+D:\bsu\P0\bin\Debug\P0.exe
+D:\bsu\P0\bin\Debug\P0.pdb
+D:\bsu\P0\obj\Debug\P0.csprojAssemblyReference.cache
+D:\bsu\P0\obj\Debug\P0.Form1.resources
+D:\bsu\P0\obj\Debug\P0.Form2.resources
+D:\bsu\P0\obj\Debug\P0.Form25.resources
+D:\bsu\P0\obj\Debug\P0.Form3.resources
+D:\bsu\P0\obj\Debug\P0.Form4.resources
+D:\bsu\P0\obj\Debug\P0.Form5.resources
+D:\bsu\P0\obj\Debug\P0.Form6.resources
+D:\bsu\P0\obj\Debug\P0.Properties.Resources.resources
+D:\bsu\P0\obj\Debug\P0.csproj.GenerateResource.cache
+D:\bsu\P0\obj\Debug\P0.csproj.CoreCompileInputs.cache
+D:\bsu\P0\obj\Debug\P0.exe
+D:\bsu\P0\obj\Debug\P0.pdb
+f:\BSU\Средства визуального программирования\Исправленная прога P0\bin\Debug\P0.exe.config
+f:\BSU\Средства визуального программирования\Исправленная прога P0\bin\Debug\P0.exe
+f:\BSU\Средства визуального программирования\Исправленная прога P0\bin\Debug\P0.pdb
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.csproj.AssemblyReference.cache
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form1.resources
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form2.resources
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form25.resources
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form3.resources
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form4.resources
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form5.resources
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form6.resources
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Properties.Resources.resources
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.csproj.GenerateResource.cache
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.csproj.CoreCompileInputs.cache
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.exe
+f:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.pdb

@@ -1,0 +1,16 @@
+F:\BSU\Средства визуального программирования\Исправленная прога P0\bin\Debug\P0.exe.config
+F:\BSU\Средства визуального программирования\Исправленная прога P0\bin\Debug\P0.exe
+F:\BSU\Средства визуального программирования\Исправленная прога P0\bin\Debug\P0.pdb
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\ASU Farma.csproj.AssemblyReference.cache
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form1.resources
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form2.resources
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form25.resources
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form3.resources
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form4.resources
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form5.resources
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Form6.resources
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.Properties.Resources.resources
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\ASU Farma.csproj.GenerateResource.cache
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\ASU Farma.csproj.CoreCompileInputs.cache
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.exe
+F:\BSU\Средства визуального программирования\Исправленная прога P0\obj\Debug\P0.pdb
