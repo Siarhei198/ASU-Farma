@@ -1,0 +1,17 @@
+C:\Users\bnds1\Source\Repos\ASU-Farma\bin\Debug\P0.exe.config
+C:\Users\bnds1\Source\Repos\ASU-Farma\bin\Debug\P0.exe
+C:\Users\bnds1\Source\Repos\ASU-Farma\bin\Debug\P0.pdb
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\ASU.csproj.AssemblyReference.cache
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\P0.Form1.resources
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\P0.Form2.resources
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\P0.Form25.resources
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\P0.Form3.resources
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\P0.Form4.resources
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\P0.Form5.resources
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\P0.Form6.resources
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\P0.LoginForm.resources
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\P0.Properties.Resources.resources
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\ASU.csproj.GenerateResource.cache
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\ASU.csproj.CoreCompileInputs.cache
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\P0.exe
+C:\Users\bnds1\Source\Repos\ASU-Farma\obj\Debug\P0.pdb
